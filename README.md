@@ -38,4 +38,14 @@ Write a smart contracts following the [Requirements](#Requirements) until the te
 $ npm test
 ```
 
-Solution with passing tests can be found in branch `final`
+# Solution
+
+Solution with tests passing can be found in branch `final`
+
+```
+$ git checkout final
+```
+
+<img src="TestPass.png" alt="MarineGEO circle logo" style="width:400px;"/>
+
+final solidity code [here](https://github.com/soliditystudygroup/ERC20-Token/blob/final/contracts/GLDToken.sol)
