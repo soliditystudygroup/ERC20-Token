@@ -1,7 +1,7 @@
 # Gold Token
 
 The goal of this excercise is to create an ERC-20 Smart contract using the Open Zeppelin Libraries.
-You can test out your contract with `/tests/GoldToken-Test.js` these will help make sure your Contract passes the requirements. The test also shows how the javascript library [ethers](https://docs.ethers.io/v5/) interacts with the smart contracts. Try and understand what the tests are doing. Tests go hand in hand with solidity development. Solution is in branch `final`.
+You can test out your contract with `/tests/GoldToken-Test.js` these will help make sure your Contract passes the requirements. The test also shows how the javascript library [ethers](https://docs.ethers.io/v5/) interacts with the smart contracts. Try and understand what the tests are doing. Tests go hand in hand with solidity development. Solution is in branch [final](https://github.com/soliditystudygroup/ERC20-Token/tree/final).
 
 # Requirements
 
