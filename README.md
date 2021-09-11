@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gold Token
 
 The goal of this excercise is to create an ERC-20 Smart contract using the Open Zeppelin Libraries.
@@ -49,3 +50,7 @@ $ git checkout final
 <img src="TestPass.png" alt="MarineGEO circle logo" style="width:400px;"/>
 
 final solidity code [here](https://github.com/soliditystudygroup/ERC20-Token/blob/final/contracts/GLDToken.sol)
+=======
+# Solution 
+working solidity code [here](https://github.com/soliditystudygroup/ERC20-Token/blob/final/contracts/GLDToken.sol)
+>>>>>>> final
