@@ -9,8 +9,3 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 - symbol: GLD
 - total supply: 1000 GLD
 */
-contract GLDToken is ERC20 {
-    constructor() ERC20("Gold", "GLD") {
-        _mint(msg.sender, 1000 ether);
-    }
-}
